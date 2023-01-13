@@ -1,0 +1,155 @@
+/* title */
+#title{
+  background-color: white;
+  font-family: 'Montserrat-Bold';
+  size: 1.5rem;
+  line-height: 1.5;
+ 
+  
+}
+.N_2_N{
+    color: #ff8c00;
+}
+.paragraph-title{
+    color: #708090;
+}
+@media (max-width:1028px){
+    #title{
+        text-align: center;
+    }
+}
+.title-img{
+    width: 100%;
+}
+.container-title
+{
+    padding: 3%;
+}
+/* nav bar */
+.navbar-brand{
+
+    font-family: "Ubuntu";
+    font-size: 0 0 2.5rem;
+    font-weight: bold;
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.nav-item{
+   padding: 0 15px ;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat-light';
+}
+
+
+/* Features  */
+#features{
+   
+    padding: 7% 15%;
+    background-color: #fffafa;
+    position: relative;
+    z-index: 1;
+    
+   
+   
+ }
+ .icon{
+    color: #4b0082;
+    
+    margin:0 0 10px 0;
+ }
+ .icon:hover{
+    color: #ff4c68;
+ }
+ .feature-box{
+    text-align: center;
+    padding: 5%;
+
+ }
+
+ #testimonials{
+    background-color: rgb(38, 37, 37);
+    
+    text-align: center;
+    color: whitesmoke;
+  
+  }
+  .carousel-item{
+      padding: 7% 15%;
+  
+  }
+  .dog-img{
+      width: 15%;
+      border-radius: 100%;
+      margin: 20px;
+  }
+  #press{
+      text-align: center;
+      background-color: #ff4c68;
+     padding-bottom: 5%;
+  }
+  .press-logo{
+      width: 13%;
+      margin: 20px 20px 15px;
+  
+  }
+
+
+  .work-img{
+    width: 15%;
+    
+    margin: 20px;}
+
+
+    /* Pricing  */
+#pricing{
+
+    background-color:#fffafa ;
+    padding: 100px;
+    text-align: center;
+    color: #708090;
+}
+.pricing-coloum{
+    padding: 3%;
+}
+.pricing-text{
+    size: 3.5rem;
+    line-height: 1.5;
+}
+
+
+/* cta */
+#cta{
+    background-color:  rgb(38, 37, 37);
+    text-align: center;
+    color: whitesmoke;
+    padding: 7% 15%;
+
+   
+}
+.cta-h3{
+    font-family: 'Montserrat-Blod';
+    size: 1.5rem;
+    line-height: 1.5;
+    font-size: 3.5rem;
+
+}
+.cta-img{
+    width: 40%;
+    border-radius: 100%;
+}
+.cta-icon{
+    padding: 1%;
+    color: rgb(241, 90, 37);
+}
+.container-fluid {
+    margin: 20px 0;
+}
+
+#footer{
+    background-color:white;
+    color: black;
+
+}
